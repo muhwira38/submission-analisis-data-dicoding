@@ -1,4 +1,4 @@
-# Bke Sharing Dashboard ✨
+# Bike Sharing Dashboard ✨
 
 ## Setup environment
 
